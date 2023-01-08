@@ -24,7 +24,7 @@ pip install -r requirements.txt
 ## Environment Configuration
 
 ### .env configuration
-Create a .env file with these configurations:
+Create a `.env` file with these configurations:
 ```
 SECRET_KEY=<your secret key>
 EMAIL_HOST_USER=<your email address>
